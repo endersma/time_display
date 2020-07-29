@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    background-color: aqua;
+}
+h3{
+    border: 2px black solid;
+    background-color: azure;
+    margin: 45px 300px 15px 386px;
+    padding: 20px;
+    display: inline-block;
+}
+h1{
+    border: 2px black solid;
+    background-color: azure;
+    margin: 0px 300px 0px 344px;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+}
